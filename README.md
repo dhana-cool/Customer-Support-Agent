@@ -1,4 +1,4 @@
-# Customer Support Email Agent - Beginner Version
+# Customer Support Email Agent 
 
 A simple AI agent built with LangGraph that automatically processes customer support emails, classifies them, and generates appropriate responses.
 
